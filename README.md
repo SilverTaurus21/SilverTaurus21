@@ -1,7 +1,6 @@
-- 👋 Hi, SilverTaurus
 - 👀 I’m interested in Tech Ideas and 2d sketch-up
 - 🌱 I’m currently learning -  Dynamic Programming and API
-- 📫 Working email: erjazucena@gmail.com
+- 📫 Working email: on-progress
 - 😄 Pronouns: ... Unknown
 - ⚡ Fun fact: ...Had Weird ideas from uncertain reactions in progs 
 
